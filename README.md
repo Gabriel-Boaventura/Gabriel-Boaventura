@@ -1,4 +1,7 @@
-## Hi there 👋
+## Meu nome é Gabriel Constantino Boaventura 
+
+•Estudande de informática CEDUP Abílio Paulo
+•Criciuma
 
 <!--
 **Gabriel-Boaventura/Gabriel-Boaventura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
