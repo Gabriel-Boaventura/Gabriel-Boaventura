@@ -5,6 +5,7 @@
 - 💻👩🏻‍💻👾 Perfil destinado às resoluções, Lógica de Programação e Banco de Dados.
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Boaventura&theme=radical&show_icons=true)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Boaventura&layout=compact)](https://github.com/Gabriel-Boaventura/Atividades.git)
 
 
 <div style="display: inline_block"><br>
