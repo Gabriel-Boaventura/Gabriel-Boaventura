@@ -1,8 +1,8 @@
 ## Meu nome é Gabriel Constantino Boaventura 
 
 
-- 🧑🏻🏫 estudante do Curso Técnico em Informática no Colégio Cedup Abílio Paulo de Criciúma/SC - Brasil
-- 💻👩🏻‍💻👾 Perfil destinado às resoluções, Lógica de Programação e Banco de Dados.
+- 🧑🏻🏫 Formado no Curso Técnico em Informática no Colégio Cedup Abílio Paulo de Criciúma/SC - Brasil
+- 💻👩🏻‍💻👾 Perfil destinado a, Lógica de Programação e Banco de Dados.
 
 
 <div style="display: inline_block"><br>
@@ -11,7 +11,6 @@
             <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
                 
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
           
 </div>
